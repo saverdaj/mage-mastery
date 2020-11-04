@@ -240,6 +240,7 @@ return [
         'Klarna_Kp' => 0,
         'Magento_PaypalReCaptcha' => 0,
         'MSP_TwoFactorAuth' => 0,
+        'MageMastery_Todo' => 1,
         'Temando_Shipping' => 0,
         'Vertex_Tax' => 0,
         'Vertex_AddressValidation' => 0,
