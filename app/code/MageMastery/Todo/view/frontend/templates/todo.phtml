@@ -10,6 +10,10 @@ use Magento\Framework\View\Element\Template;
     <li>Tastk 1</li>
 </ul>
 
+<div data-bind="scope: 'todo'">
+    <!-- ko template: getTemplate()--><!-- /ko -->
+</div>
+
 <script type="text/x-magento-init">
     {
         "*": {
